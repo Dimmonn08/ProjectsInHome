@@ -1,0 +1,4 @@
+﻿  silnikRPG.cpp
+C:\Users\Dimon\Desktop\projektyWdomu\silnikRPG\silnikRPG\silnikRPG.cpp(113,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dimon\Desktop\projektyWdomu\silnikRPG\silnikRPG\silnikRPG.cpp(120,13): warning C4566: character represented by universal-character-name '\u017C' cannot be represented in the current code page (1252)
+  silnikRPG.vcxproj -> C:\Users\Dimon\Desktop\projektyWdomu\silnikRPG\x64\Debug\silnikRPG.exe
